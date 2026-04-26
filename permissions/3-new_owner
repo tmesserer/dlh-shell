@@ -1,3 +1,2 @@
 #!/bin/bash
-useradd betty
 chown betty hello
